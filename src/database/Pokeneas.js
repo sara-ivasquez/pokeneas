@@ -57,7 +57,7 @@ const Pokeneas = [
     },
     {
         id: 8,
-        name: "Parecero",
+        name: "Parcero",
         height: 1.5,
         ability: "Hacer aliados en cualquier lugar del mundo",
         image: "https://storage.googleapis.com/pokeneass-bucket/parcero.png",

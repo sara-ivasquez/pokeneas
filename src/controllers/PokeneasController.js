@@ -11,6 +11,7 @@ class PokeneasController {
             image: image,
             quote: quote,
             hostname: os.hostname(),
+            name: pokenea.name,
         };
 
         res.render('pokenea/show', { viewData: viewData });
