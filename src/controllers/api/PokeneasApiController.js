@@ -13,7 +13,6 @@ class PokeneasApiController {
             height: height,
             ability: ability,
             hostName: os.hostname(),
-            name: pokenea.name,
         };
 
         res.send(response);
